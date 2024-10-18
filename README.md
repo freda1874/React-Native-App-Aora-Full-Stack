@@ -19,7 +19,9 @@ https://github.com/user-attachments/assets/a685357f-dc6d-4cbf-b926-9d85a3dd2775
  
 ---
 
-## 🚀 **Features**
+
+## 🌐 **Features in Detail**
+ 
 - **Onboarding Screen**: Engaging graphics and clear instructions welcome users to the app.
 - **Secure Email Login**: Protects user accounts with secure authentication using Appwrite.
 - **Animated FlatList**: Users can browse the latest AI-generated videos with smooth animations.
@@ -75,17 +77,7 @@ and this tutorial: https://www.youtube.com/watch?v=DwbwuYYiBTk
 4. **Setup Appwrite Backend**:
    - Configure your Appwrite server for authentication, database, and storage integration. Instructions for Appwrite setup can be found [here](https://appwrite.io/docs).
 
----
 
-## 🌐 **Features in Detail**
-
-- **AI Video Sharing**: Watch and explore a growing library of AI-generated videos shared by the community.
-- **Upload Videos**: Easily upload videos to Appwrite’s cloud storage directly from your device.
-- **Interactive Animations**: Engage with a dynamic UI, where animations enhance user experience, powered by the **Animatable** library.
-- **Tab Navigation**: Effortlessly move between sections like Home, Search, and Profile with intuitive tab navigation.
-- **Appwrite Integration**: User data is securely stored and managed via Appwrite’s authentication, database, and storage services.
-- ** Global Context**:Used for managing user authentication sessions, keeping users logged in until users manually log out.
- 
 
 
 ## Get started
