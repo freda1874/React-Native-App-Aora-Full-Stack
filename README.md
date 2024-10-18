@@ -6,10 +6,11 @@ It offers a smooth user experience, dynamic animations, and essential features f
 ### Figma Design Guide:
 This app follows a carefully crafted design based on a Figma prototype:
 [Figma Design Guide](https://www.figma.com/design/o6xKq25ETLqw5ebqgZonVp/Aora---React-Native-Crash-Course?node-id=1-2171&node-type=frame&t=SQoGTjvdokmOK4wC-0)
+ 
 
-## Watch the Demo
 
-[![Watch the video]](https://vimeo.com/1020828921?share=copy)
+https://github.com/user-attachments/assets/a685357f-dc6d-4cbf-b926-9d85a3dd2775
+
 
 ---
 
@@ -88,41 +89,8 @@ This app follows a carefully crafted design based on a Figma prototype:
 - **Tab Navigation**: Effortlessly move between sections like Home, Search, and Profile with intuitive tab navigation.
 - **Appwrite Integration**: User data is securely stored and managed via Appwrite’s authentication, database, and storage services.
 
----
+ 
 
-## 🏗 **Code Architecture**
-
-The app is built using a modular and reusable code architecture:
-- **Components**: Highly reusable and customizable components for different UI elements.
-- **State Management**: Using React’s `useState` and `useEffect` hooks for managing state efficiently.
-- **Backend Integration**: Full integration with Appwrite for user authentication, data management, and storage.
-
----
-
-## 🤝 **Contributing**
-
-We welcome contributions! Feel free to fork the repo and submit pull requests.
-
----
-
-## 📝 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 💡 **Contact**
-
-- **GitHub**: [YourGitHubProfile](https://github.com/yourusername)
-- **Email**: youremail@example.com
-
----
-
-### Aora - Empowering the future of AI-generated video sharing
-
----
-
-This README provides a great starting point for showcasing your project and allows easy insertion of screenshots in a table format. Feel free to replace the placeholders and URLs with your actual content!
 
 ## Get started
 
