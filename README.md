@@ -2,16 +2,11 @@
 
 This is modern mobile app built with **React Native** and **Appwrite** (as the backend), enabling seamless sharing of community videos. 
 It offers a smooth user experience, dynamic animations, and essential features for a community-focused video-sharing platform.
-
-### Figma Design Guide:
-This app follows a carefully crafted design based on a Figma prototype:
-[Figma Design Guide](https://www.figma.com/design/o6xKq25ETLqw5ebqgZonVp/Aora---React-Native-Crash-Course?node-id=1-2171&node-type=frame&t=SQoGTjvdokmOK4wC-0)
  
 
-# watch demo
+# App demo
 https://github.com/user-attachments/assets/a685357f-dc6d-4cbf-b926-9d85a3dd2775
 
- 
 ---
 
 ## 🛠 **Tech Stack**
@@ -36,8 +31,6 @@ https://github.com/user-attachments/assets/a685357f-dc6d-4cbf-b926-9d85a3dd2775
  
 
 
-
-
 ## 📱 **Screenshots**
 
 | Register                | Home                     | login             |
@@ -48,7 +41,11 @@ https://github.com/user-attachments/assets/a685357f-dc6d-4cbf-b926-9d85a3dd2775
 | ------------------------- | ------------------------ | ------------------------ |
 | ![search](https://github.com/user-attachments/assets/b34a27ab-b2b5-4532-bab7-47ebf0f6cf50)| ![upload](https://github.com/user-attachments/assets/454b0df9-d37d-4446-9831-68cc1474b446)    | ![profile](https://github.com/user-attachments/assets/8d54ef77-df94-41ab-b5df-3c6ab1cb9e55) |
 
-*Note: Replace the `![Screenshot]()` with the actual links to your screenshots.*
+###  Design Guide:
+This app follows a carefully crafted design based on a Figma prototype:
+[Figma Design Guide](https://www.figma.com/design/o6xKq25ETLqw5ebqgZonVp/Aora---React-Native-Crash-Course?node-id=1-2171&node-type=frame&t=SQoGTjvdokmOK4wC-0)
+
+and this tutorial: https://www.youtube.com/watch?v=DwbwuYYiBTk 
 
 ---
 
@@ -87,7 +84,7 @@ https://github.com/user-attachments/assets/a685357f-dc6d-4cbf-b926-9d85a3dd2775
 - **Interactive Animations**: Engage with a dynamic UI, where animations enhance user experience, powered by the **Animatable** library.
 - **Tab Navigation**: Effortlessly move between sections like Home, Search, and Profile with intuitive tab navigation.
 - **Appwrite Integration**: User data is securely stored and managed via Appwrite’s authentication, database, and storage services.
-
+- ** Global Context**:Used for managing user authentication sessions, keeping users logged in until users manually log out.
  
 
 
