@@ -7,6 +7,10 @@ It offers a smooth user experience, dynamic animations, and essential features f
 This app follows a carefully crafted design based on a Figma prototype:
 [Figma Design Guide](https://www.figma.com/design/o6xKq25ETLqw5ebqgZonVp/Aora---React-Native-Crash-Course?node-id=1-2171&node-type=frame&t=SQoGTjvdokmOK4wC-0)
 
+## Watch the Demo
+
+[![Watch the video]](https://vimeo.com/1020828921?share=copy)
+
 ---
 
 ## 🛠 **Tech Stack**
