@@ -8,15 +8,10 @@ This app follows a carefully crafted design based on a Figma prototype:
 [Figma Design Guide](https://www.figma.com/design/o6xKq25ETLqw5ebqgZonVp/Aora---React-Native-Crash-Course?node-id=1-2171&node-type=frame&t=SQoGTjvdokmOK4wC-0)
  
 
-
+# watch demo
 https://github.com/user-attachments/assets/a685357f-dc6d-4cbf-b926-9d85a3dd2775
 
-
-
-
-
-
-
+ 
 ---
 
 ## 🛠 **Tech Stack**
@@ -39,20 +34,19 @@ https://github.com/user-attachments/assets/a685357f-dc6d-4cbf-b926-9d85a3dd2775
 - **Profile Screen**: View user profile details, uploaded videos, and follower counts.
 - **Dynamic Animations**: Enhanced user interaction and engagement using the **Animatable** library.
  
-## Watch the Demo
 
-[![Watch the video](https://img.youtube.com/vi/1020828921/0.jpg)](https://vimeo.com/1020828921?share=copy#t=0)
+
 
 
 ## 📱 **Screenshots**
 
-| Register                | Login                     | Home             |
+| Register                | Home                     | login             |
 | ------------------------- | ------------------------ | ------------------------ |
-| ![register](https://github.com/user-attachments/assets/debe6e03-be6d-4cb1-bcda-456749d8f64e) | ![login2](https://github.com/user-attachments/assets/fe998894-d76c-4c6a-813a-65c0ac101740)|![login](https://github.com/user-attachments/assets/c8716b94-b466-46ac-9770-b8ad12843c2d)|
+| ![register](https://github.com/user-attachments/assets/debe6e03-be6d-4cb1-bcda-456749d8f64e) |![home](https://github.com/user-attachments/assets/59243dc7-2d68-40c7-a209-ad3e12663a97)|![login](https://github.com/user-attachments/assets/c8716b94-b466-46ac-9770-b8ad12843c2d)|
 
-| Profile                   | Upload                   | Profile               |
+| Search                   | Upload                   | Profile               |
 | ------------------------- | ------------------------ | ------------------------ |
-| ![Profile Screenshot]()    | ![upload](https://github.com/user-attachments/assets/454b0df9-d37d-4446-9831-68cc1474b446)    | ![profile](https://github.com/user-attachments/assets/8d54ef77-df94-41ab-b5df-3c6ab1cb9e55) |
+| ![search](https://github.com/user-attachments/assets/b34a27ab-b2b5-4532-bab7-47ebf0f6cf50)| ![upload](https://github.com/user-attachments/assets/454b0df9-d37d-4446-9831-68cc1474b446)    | ![profile](https://github.com/user-attachments/assets/8d54ef77-df94-41ab-b5df-3c6ab1cb9e55) |
 
 *Note: Replace the `![Screenshot]()` with the actual links to your screenshots.*
 
